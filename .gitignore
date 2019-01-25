@@ -1,0 +1,8 @@
+*.o
+*.d
+extractRAWaverage
+getVolts
+rawread
+*.jpg
+tmp.txt
+*~
